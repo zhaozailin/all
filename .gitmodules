@@ -1,0 +1,6 @@
+[submodule "sub1"]
+	path = sub1
+	url = git@github.com:zhaozailin/inputNumber.git
+[submodule "sub3"]
+	path = sub3
+	url = git@github.com:zhaozailin/inputNumber.git
